@@ -1,0 +1,6 @@
+data/com.example.finalTest.desktop.in
+data/com.example.finalTest.metainfo.xml.in
+data/com.example.finalTest.gschema.xml
+src/main.c
+src/finaltest-window.c
+src/finaltest-window.ui
