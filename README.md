@@ -1,1 +1,1 @@
-A simple text editor built with GNOME in C and Mason build system.
+A simple text editor built with GTK in C and Mason build system.
