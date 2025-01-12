@@ -4,4 +4,5 @@ Libadwaita can be used for standardized UI.
 
 Used flatpak as a default code editor.
 
-GTK in my machine is built from scratch, which is the best way atleast till now.
+GTK in my machine is built from scratch, which is the best way atleast till now. (Linux Manjaro)
+
